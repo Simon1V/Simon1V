@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simon1V
-- 🌱 I’m currently learning OCaml, OpenGL.
+- 🌱 I’m currently learning Machine Learning, SMT.
 - 💞️ I’m looking to collaborate on Exploit Dev. 
 - 📫 How to reach me Discord: Simon_#7930, Element: soon. 
 
